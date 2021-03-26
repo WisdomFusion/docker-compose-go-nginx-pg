@@ -1,6 +1,6 @@
-# docker-compose-go-nginx-postgres
+# docker-compose-go-nginx-pg
 
-Docker Compose for Golang Server with nginx Proxy and PostgreSQL Database
+Docker Compose for Golang Server with nginx Proxy and PostgreSQL(pg) Database
 
 ## Before Usage
 
